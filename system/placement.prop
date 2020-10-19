@@ -1,0 +1,6 @@
+id=forcefastcharging
+name=Force Fast Charging
+version=vFINAL
+versionCode=10
+author=AkiraSuper
+description=This module enable Force Fast Charging for various supported Android devices and custom kernels systemlessly.
